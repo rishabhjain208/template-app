@@ -1,4 +1,3 @@
-```markdown
 # Template App
 
 A Node.js Express application to **export, import, and fill templates** with images and text boxes. This project allows you to manage template JSON files and dynamically populate them with custom data.
