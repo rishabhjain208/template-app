@@ -1,0 +1,16 @@
+{
+  "templateName": "birthdayCard",
+  "textBoxes": [
+    {
+      "id": 1,
+      "value": "Happy Birthday!"
+    },
+    {
+      "id": 2,
+      "value": "Name"
+    }
+  ],
+  "images": [
+    "uploads\\1758783079076-ChatGPT Image Sep 16, 2025, 01_43_36 PM.png"
+  ]
+}
